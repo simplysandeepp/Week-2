@@ -1,4 +1,4 @@
-# Week-1
+# Week-2
 # 🌍 Air Quality Index (AIQ) Prediction Project 
 ## Project: Environmental Monitoring & Pollution Control
 
